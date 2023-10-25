@@ -1,0 +1,22 @@
+state={
+	id=913
+	name="STATE_913"
+	resources={
+		tungsten=6
+	}
+
+	history={
+		owner = UTA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = UTA
+	}
+	
+	provinces={
+		7888 9695 12535 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

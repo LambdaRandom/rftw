@@ -1,0 +1,30 @@
+
+state={
+	id=372
+	name="STATE_372"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = ROA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = ROA
+		victory_points = {
+			12489 1 
+		}
+
+	}
+
+	provinces={
+		1503 7485 7543 10355 12458 12489 12778 
+	}
+	manpower=854481
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=9.000
+}

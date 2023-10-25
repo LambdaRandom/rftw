@@ -1,0 +1,18 @@
+state={
+	id=911
+	name="STATE_911"
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		1562 = {
+			naval_base = 10
+		}
+	}
+	
+	provinces={
+		823 1562 4727 7517 7986 12374 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

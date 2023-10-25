@@ -1,0 +1,35 @@
+
+state={
+	id=383
+	name="STATE_383"
+	resources={
+		oil=30.000
+	}
+
+	history={
+		owner = ROA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = ROA
+
+		victory_points = {
+			1352 15 
+		}
+		victory_points = {
+			7834 5 
+		}
+
+	}
+
+	provinces={
+		1352 1753 1806 2043 4757 4811 4814 4871 7834 7892 9802 10532 12024 12513 
+	}
+	manpower=880998
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

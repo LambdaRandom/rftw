@@ -1,0 +1,19 @@
+state={
+	id=912
+	name="STATE_912"
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = CAL
+	}
+
+	provinces={
+		1862 4521 4607 4736 4799 7827 10422 12134 12399 12425 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

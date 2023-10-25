@@ -1,0 +1,31 @@
+
+state={
+	id=382
+	name="STATE_382"
+	resources={
+		oil=14.000
+		tungsten=8
+	}
+
+	history={
+		owner = ROA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = ROA
+		victory_points = {
+			1827 15 
+		}
+
+	}
+
+	provinces={
+		868 1658 1756 1809 1827 3869 6887 7684 7764 7780 10535 10588 11772 12570 12642 
+	}
+	manpower=535790
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=8.000
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=380
+	name="STATE_380"
+	resources={
+		tungsten=32.000
+	}
+
+	history={
+		owner = UTA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+
+		}
+		add_core_of = UTA
+		victory_points = {
+			4865 15 
+		}
+
+	}
+
+	provinces={
+		850 1663 1740 4668 4742 4865 10582 10651 10662 12573 12699 13153 
+	}
+	manpower=9507846
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
