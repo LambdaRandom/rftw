@@ -122,3 +122,8 @@ recruit_character = USA_henry_stimson
 recruit_character = USA_victor_perlo
 recruit_character = USA_charles_coughlin
 recruit_character = USA_harry_white
+
+set_autonomy = {
+	target = OKL
+	autonomous_state =  autonomy_integrated_puppet
+}
