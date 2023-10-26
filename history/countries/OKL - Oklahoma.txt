@@ -1,4 +1,4 @@
-capital = 374 #Texas
+capital = 374 #Oklahoma
 
 starting_train_buffer = 5
 set_research_slots = 3
