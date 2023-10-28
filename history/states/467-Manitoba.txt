@@ -1,7 +1,7 @@
 
 state={
-	id=469
-	name="STATE_469"
+	id=467
+	name="STATE_467"
 
 	history={
 		owner = ROA
@@ -10,15 +10,19 @@ state={
 			industrial_complex = 1
 
 		}
+		victory_points = {
+			4872 5 
+		}
 		add_core_of = ROA
 
 	}
 
 	provinces={
-		736 1788 3481 3498 3769 4739 6779 9669 10552 10611 10656 11440 12593 12603 12663 
+		1848 1873 3721 4218 4426 4790 4872 5119 12145 12636 12688 13163 
 	}
-	manpower=800000
+	manpower=641071
 	buildings_max_level_factor=1.000
 	state_category=rural
-	local_supplies=0.000
+
+	local_supplies=9.0 
 }
