@@ -127,3 +127,8 @@ set_autonomy = {
 	target = OKL
 	autonomous_state =  autonomy_integrated_puppet
 }
+
+set_autonomy = {
+	target = CAN
+	autonomous_state =  autonomy_integrated_puppet
+}
